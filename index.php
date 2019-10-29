@@ -1,7 +1,7 @@
 <?php
 
 
-echo "Version 1.1";
+echo "Version 2.0";
 
 
 ?>
